@@ -33,13 +33,6 @@
 
 [![Watch the video](https://imgur.com/6G0gbPG.jpg)](https://drive.google.com/file/d/1jKcx7tS5amD0SMrpNnpJ9u2GSCvxtOhS/view?usp=sharing)
 
-## :clap: Use Cases
-
-✔ Can be used at hospitals<br />
-✔ Can be used at Railway Stations<br />
-✔ Can be used at Crowded Areas<br />
-✔ Can be used at Market Places and Malls<br />
-
 <h2 align="center">AI Based Redness of Eye Detection</h2>
 
 <div align= "center">
@@ -54,6 +47,16 @@
 
 ![Red Eye Detection](https://www.aao.org/detail/image.axd?id=e553eb84-92e0-4f16-8cd9-3f2c9d92ac4b&t=637224872874900000)
 
+## :clap: Use Cases
+
+✔ Can be used at hospitals<br />
+✔ Can be used at Railway Stations<br />
+✔ Can be used at Crowded Areas<br />
+✔ Can be used at Market Places and Malls<br />
+
 ## :key: How to install
 
-It is a software that can take feed from existing cameras and show the results.
+✔ Clone the project.
+✔ Move to the directory where you have cloned
+✔ Install all the requirements from requirements.py
+✔ type command python covid.py
