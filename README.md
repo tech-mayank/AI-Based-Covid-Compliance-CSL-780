@@ -56,7 +56,8 @@
 
 ## :key: How to install
 
-✔ Clone the project.
-✔ Move to the directory where you have cloned
-✔ Install all the requirements from requirements.py
-✔ type command python covid.py
+✔ Clone the project.<br />
+✔ Move to the directory where you have cloned<br />
+✔ Install all the requirements from requirements.py<br />
+✔ Install "shape_predictor_68_face_landmarks.dat" file from <a>https://github.com/italojs/facial-landmarks-recognition</a> repo.<br />
+✔ type command python covid.py<br />
